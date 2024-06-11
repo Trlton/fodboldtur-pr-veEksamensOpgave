@@ -1,10 +1,11 @@
 # fodboldtur-prøveEksamensOpgave
 
 Som start dannnede jeg mig et overblik over den givne kode med flowchart:
-![Model]()
+![Model](IMG_20240611_195628.jpg)
 
 
 Derefter satte jeg opdigtede jeg nye features som mangler:
+
 ![Model]()
 
 ![Model]()
