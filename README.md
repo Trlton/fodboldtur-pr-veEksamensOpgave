@@ -6,9 +6,8 @@ Som start dannnede jeg mig et overblik over den givne kode med flowchart:
 
 Derefter satte jeg opdigtede jeg nye features som mangler:
 
-![Model]()
+![Model](IMG_20240611_195636.jpg)
 
-![Model]()
 
 
 Dette er sidste, lidt mere dybdegående, flowchart over den færdige kode:
