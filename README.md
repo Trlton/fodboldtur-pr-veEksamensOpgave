@@ -11,4 +11,5 @@ Derefter satte jeg opdigtede jeg nye features som mangler:
 
 
 Dette er sidste, lidt mere dybdegående, flowchart over den færdige kode:
-![Model]()
+
+![Model](IMG_20240611_195651.jpg)
