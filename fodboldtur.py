@@ -41,8 +41,8 @@ def menu():
     elif valg == '3':
         login()
     else:
-        clear
-        print("Ugyldigt valg. Prøv igen.")
+        newLineBold("Ugyldigt valg - prøv igen")
+        time.sleep(0.5)
         menu()
 
 
@@ -106,9 +106,9 @@ def indbetaling(navn):
         fodboldtur[navn] += beløb
         print(f"Ny saldo for {navn}: {fodboldtur[navn]} DKK.")
     except ValueError:
-        print("Ugyldigt beløb.")
+        boldText("Ugyldigt beløb - sender til menu")
     except KeyError:
-        print("Navnet findes ikke i systemet.")
+        boldText("Navnet findes ikke i systemet. - sender til menu")
     time.sleep(1.5)
     menu()
 
